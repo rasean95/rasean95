@@ -13,7 +13,7 @@ I also enjoy contributing to open source projects in my free time.
       		   Zoom | Notepad++ | REST APIs |
              
 ### Contact
-Feel free to reach out to me at raseanjamalrhone@email.com or connect with me @ linkedin.com/in/raseanrhone.
+Feel free to reach out to me @ raseanjamalrhone@email.com or connect with me @ linkedin.com/in/raseanrhone.
 
 
 ### Conclusion
