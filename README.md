@@ -12,12 +12,11 @@ I also enjoy contributing to open source projects in my free time.
       		   Bash | Postman | SQL Server | SQL Server Management Studio | Trello | Slack | 
       		   Zoom | Notepad++ | REST APIs |
              
-### Contact
-Feel free to reach out to me @ raseanjamalrhone@email.com or connect with me @ linkedin.com/in/raseanrhone.
-
-
 ### Conclusion
 I'm passionate about building quality software that solves real-world problems. I'm always looking for opportunities to collaborate with like-minded individuals or companies. Let's build something great together!
+
+### Contact
+Feel free to reach out to me here raseanjamalrhone@email.com or connect with me here linkedin.com/in/rasean-rhone.
 
 <!--
 **rasean95/rasean95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
