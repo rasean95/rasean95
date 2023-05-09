@@ -16,7 +16,7 @@ I also enjoy contributing to open source projects in my free time.
 I'm passionate about building quality software that solves real-world problems. I'm always looking for opportunities to collaborate with like-minded individuals or companies. Let's build something great together!
 
 ### Contact
-Feel free to reach out to me here raseanjamalrhone@email.com or connect with me here [linkedin.com/in/rasean-rhone-b0a61a236/).](https://www.linkedin.com/in/rasean-rhone-b0a61a236/)
+Feel free to reach out to me here raseanjamalrhone@email.com or connect with me here [linkedin.com/in/rasean-rhone-b0a61a236/).] (https://www.linkedin.com/in/rasean-rhone-b0a61a236/)
 
 <!--
 **rasean95/rasean95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
