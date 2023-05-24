@@ -1,34 +1,23 @@
-### Rasean Rhone - Software Engineer
-### About Me
-Hello👋 My name is Rasean Rhone and I'm a full-stack software engineer with experience in building web applications. I am proficient in the following languages: JavaScript | Bash | SQL | C# | React.js. I am passionate about learning new technologies and tools to expand my knowledge base. 
-I also enjoy contributing to open source projects in my free time.
+### Fairly is a SaaS platform allowing talent acquisition teams to find the best talent faster and more efficiently for companies while saving time on recruiting & hiring. Fairly is an MVC and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, C#, and React code.
 
-### Skills
-• Front End: HTML | CSS | JavaScript | Bootstrap | jQuery | React.js | Ajax 
+My role as a software engineer was to implement the functionality of the administrator dashboard. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
-• Back End: C# | .NET | SQL | T-SQL
+● Developed and structured the administrator dashboard functionality from front-end to back-end.
 
-• Software/Tools: Google Chrome DevTools | Git | Github | Visual Studio | VS Code | PowerShell | 
-      		   Bash | Postman | SQL Server | SQL Server Management Studio | Trello | Slack | 
-      		   Zoom | Notepad++ | REST APIs |
-             
-### Conclusion
-I'm passionate about building quality software that solves real-world problems. I'm always looking for opportunities to collaborate with like-minded individuals or companies. Let's build something great together!
+● Created the necessary procedures in SQL utilizing joins, foreign keys and pagination.
 
-### Contact
-Feel free to reach out to me @ (raseanjamalrhone@email.com) or connect with me @ (https://www.linkedin.com/in/raseanrhone/)
+● Built the API endpoints with .NET using C# and thoroughly tested with Postman.
 
-<!--
-**rasean95/rasean95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+● Designed components in React to maximize aesthetics and functionality.
 
-Here are some ideas to get you started:
+● Utilized styling with CSS and Bootstrap.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+● Focused on best practices using proper naming convention and casing to avoid compiler issues with team member’s code.
+
+● Maintained workflow using GitBash and GitHub for repo management.
+
+● Created new branches to maintain organization throughout the project.
+
+● Performed commits and pull requests to secure consistency and quality.
+
+● Participated in daily stand-ups, code review, and code talks with team members to ensure cohesive implementation of code.
