@@ -1,6 +1,6 @@
 ### Rasean Rhone - Software Engineer
 ### About Me
-Hello👋 My name is Rasean Rhone and I'm a full-stack software engineer with experience in building web applications. I am proficient in the following languages: JavaScript | Bash | SQL | C# | React.js. I am passionate about learning new technologies and tools to expand my knowledge base. 
+Hello👋 My name is Rasean Rhone and I'm a full-stack software engineer with experience in building web applications. I am proficient in the following languages: JavaScript | React | C# | SQL. I am passionate about learning new technologies and tools to expand my knowledge base. 
 I also enjoy contributing to open source projects in my free time.
 
 ### Skills
