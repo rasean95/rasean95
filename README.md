@@ -5,7 +5,9 @@ I also enjoy contributing to open source projects in my free time.
 
 ### Skills
 • Front End: HTML | CSS | JavaScript | Bootstrap | jQuery | React.js | Node.js
+
 • Back End: C# | ASP.NET Core | SQL | T-SQL
+
 • Software/Tools: Google Chrome DevTools | Git | Github | Visual Studio | VS Code | Zoom | Ajax | 
       		   REST APIs | Postman | SQL Server | SQL Server Management Studio | Trello | Slack | 
       		   Notepad++ | Formik | Yup 
