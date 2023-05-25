@@ -4,13 +4,13 @@ Hello👋 My name is Rasean Rhone and I'm a full-stack software engineer with ex
 I also enjoy contributing to open source projects in my free time.
 
 ### Skills
-• Front End: HTML | CSS | JavaScript | Bootstrap | jQuery | React.js | Ajax 
+• Front End: JavaScript | Bootstrap | jQuery | React.js | Ajax | HTML | CSS
 
 • Back End: C# | .NET | SQL | T-SQL
 
-• Software/Tools: Google Chrome DevTools | Git | Github | Visual Studio | VS Code | PowerShell | 
-      		   Bash | Postman | SQL Server | SQL Server Management Studio | Trello | Slack | 
-      		   Zoom | Notepad++ | REST APIs |
+• Software/Tools: Google Chrome DevTools | Git | Github | Visual Studio | VS Code | Zoom |  
+      		   REST APIs | Postman | SQL Server | SQL Server Management Studio | Trello | Slack | 
+      		   Notepad++ | Formik | Yup | 
 
 ### Conclusion
 I'm passionate about building quality software that solves real-world problems. I'm always looking for opportunities to collaborate with like-minded individuals or companies. Let's build something great together!
