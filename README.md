@@ -4,7 +4,7 @@ Hello👋 My name is Rasean Rhone and I'm a full-stack software engineer with ex
 I also enjoy contributing to open source projects in my free time.
 
 ### Skills
-C# | .NET | React | JavaScript | Bootstrap | jQuery | Formik | Yup | Axios | REST APIs | Postman | HTML | CSS | SQL | T-SQL | SQL Server | SQL Server Management Studio | Azure SQL Database | Visual Studio | VS Code | Notepad++ | Google Chrome DevTools | Agile Methodologies | Git | Github | Trello | Slack | Zoom | MS Office
+C# | ASP.NET Core | React | JavaScript | Bootstrap | jQuery | Formik | Yup | Axios | Ajax | REST APIs | Postman | HTML | CSS | SQL | T-SQL | SQL Server | SQL Server Management Studio | Azure SQL Database | Visual Studio | VS Code | Notepad++ | Chrome DevTools | Agile Methodologies | Git | Github | Trello | Slack | Zoom | MS Office
 
 ### Conclusion
 I'm passionate about building quality software that solves real-world problems. I'm always looking for opportunities to collaborate with like-minded individuals or companies. Let's build something great together!
