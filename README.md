@@ -1,5 +1,5 @@
 
-Hello👋 My name is Rasean Rhone and I'm a full-stack software engineer with experience in building web applications. I'm passionate about building quality software that solves real-world problems. Let's build something great together!
+Hello👋 I'm passionate about building quality software that solves real-world problems.
 
 (.NET | C# | React.js | JavaScript | SQL )
 
