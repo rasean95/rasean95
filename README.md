@@ -1,8 +1,6 @@
 
 Hello👋 I'm passionate about building quality software that solves real-world problems.
 
-(.NET | C# | React.js | JavaScript | SQL )
-
 <!--
 **rasean95/rasean95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
