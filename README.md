@@ -1,6 +1,4 @@
-### Hello👋 Welcome!
-I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems.
-https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16
+### Hello!👋 I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems.
 
 <!--
 **rasean95/rasean95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
