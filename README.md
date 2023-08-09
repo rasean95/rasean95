@@ -1,5 +1,5 @@
-
-Hello👋 I'm passionate about building quality software that solves real-world problems.
+### Hello👋 Welcome!
+I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems.
 
 <!--
 **rasean95/rasean95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
