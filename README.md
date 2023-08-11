@@ -1,4 +1,4 @@
-# Rasean Rhone👋 Welcome! 
+# Rasean Rhone
 
-### I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems.
+### Welcome!👋 I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems.
 
