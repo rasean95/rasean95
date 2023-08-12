@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Rasean. Welcome!</h1>
 <p>I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems. My interests span the exciting worlds of machine learning and robotics, where I'm eager to explore the intersection of intelligence and automation.</p>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -12,10 +12,6 @@
    <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
    </a>
-</p>
-
-<h3 align="left">Web Frameworks and Libraries</h3>
-<p align="left">
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt=".NET" width="40" height="40"/>
    </a>
@@ -28,10 +24,6 @@
    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
    </a>
-</p>
-
-<h3 align="left">Database Technologies:</h3>
-<p align="left">
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/>
    </a>
