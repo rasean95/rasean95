@@ -6,9 +6,6 @@
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
    </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
    </a>
@@ -19,13 +16,15 @@
 
 <h3 align="left">Web Frameworks and Libraries</h3>
 <p align="left">
-   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="URL_TO_DOTNET_ICON" alt=".NET" width="40" height="40"/>
    </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
    </a>
-   <!-- Add jQuery icon here -->
+   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+   </a>
    <a href="https://jquery.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/>
    </a>
@@ -33,7 +32,7 @@
 
 <h3 align="left">Database Management and Technologies:</h3>
 <p align="left">
-     <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
       <img src="URL_TO_SQL_ICON" alt="SQL" width="40" height="40"/>
    </a>
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
