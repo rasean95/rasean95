@@ -17,7 +17,7 @@
 <h3 align="left">Web Frameworks and Libraries</h3>
 <p align="left">
    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="URL_TO_DOTNET_ICON" alt=".NET" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
    </a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
@@ -32,9 +32,6 @@
 
 <h3 align="left">Database Management and Technologies:</h3>
 <p align="left">
-   <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-      <img src="URL_TO_SQL_ICON" alt="SQL" width="40" height="40"/>
-   </a>
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
       <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/>
    </a>
