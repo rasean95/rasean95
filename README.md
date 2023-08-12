@@ -2,6 +2,7 @@
 <p>I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems. My interests span the exciting worlds of machine learning and robotics, where I'm eager to explore the intersection of intelligence and automation.</p>
 
 <h3 align="left">Skills:</h3>
+---------------------------------------------------------------------------------------------------------
 <p align="left">
    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -33,6 +34,7 @@
 </p>
 
 <h3 align="left">Development Tools:</h3>
+---------------------------------------------------------------------------------------------------------
 <p align="left">
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
