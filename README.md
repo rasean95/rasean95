@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rasean. Welcome!</h1>
-<p>I am a Software Developer based in Southern California. I love programming and building quality software that solves real-world problems. My interests span the exciting worlds of machine learning and robotics. Thanks for stopping by.</p>
+<p>I love programming and building quality software that solves real-world problems. My interests span the exciting worlds of machine learning and robotics. Thanks for stopping by.</p>
 
 <h3>Skills:</h3>
 <p>
